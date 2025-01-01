@@ -1,0 +1,78 @@
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic Libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static Libraries
+*.lib
+*.a
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.stackdump
+
+# Build directories
+build/
+cmake-build-debug/
+cmake-build-debug-remote/
+cmake-build-release/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE-specific files
+.idea/
+.vscode/
+*.iml
+
+# Log files
+*.log
+
+# Dependency files
+*.d
+
+# Generated documentation
+docs/
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
+*.swp
+*.bak
+
+# Coverage reports
+*.gcno
+*.gcda
+*.gcov
+
+# Third-party libraries
+vendor/
+external/
+third_party/
+
+# Temporary or lock files
+*.tmp
+*.lock
+
+# Custom configuration files
+config.json
+settings.ini
